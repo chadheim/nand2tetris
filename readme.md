@@ -1,6 +1,8 @@
 ## Chapter 1 - Logic Gates
 
-Implement each gate using only Nand gates
+Implement each gate using only:
+- Nand gates
+- previously completed gates
 
 | Gate     | Status      |
 |----------|:-----------:|
