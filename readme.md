@@ -4,6 +4,8 @@ Implement each gate using only:
 - Nand gates
 - previously completed gates
 
+### Progress
+
 | Gate     | Status      |
 |----------|:-----------:|
 |Not       | _completed_ |
