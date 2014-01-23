@@ -11,7 +11,7 @@ Implement each gate using only:
 |Not       | _completed_ |
 |And       | _completed_ |
 |Or        | _completed_ |
-|Xor       |             |
+|Xor       | _completed_ |
 |Mux       |             |
 |DMux      |             |
 |Not16     |             |
