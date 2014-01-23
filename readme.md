@@ -10,7 +10,7 @@ Implement each gate using only:
 |----------|:-----------:|
 |Not       | _completed_ |
 |And       | _completed_ |
-|Or        |             |
+|Or        | _completed_ |
 |Xor       |             |
 |Mux       |             |
 |DMux      |             |
